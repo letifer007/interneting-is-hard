@@ -11,3 +11,5 @@
 - Responsive Design
 - Semantic-HTML
 - Web Typography
+- Basic Web Pages
+- Links and Images
